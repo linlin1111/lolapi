@@ -1,0 +1,25 @@
+{
+  "name": "lolapi",
+  "version": "1.0.0",
+  "description": "LOL Game skin Api",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/study4963517/nodeApi.git"
+  },
+  "keywords": [
+    "LOL",
+    "Game",
+    "skin",
+    "Api"
+  ],
+  "author": "linlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/study4963517/nodeApi/issues"
+  },
+  "homepage": "https://gitlab.com/study4963517/nodeApi#readme"
+}
